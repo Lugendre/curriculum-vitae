@@ -11,7 +11,7 @@
 |媒体|リンク|
 |----|----|
 |GitHub|https://github.com/Lugendre|
-|Cosense(旧Scrapbox)|https://scrapbox.io/LugendrePublic/|
+|Cosense (旧Scrapbox)|https://scrapbox.io/LugendrePublic/|
 |Zenn|https://zenn.dev/lugendre|
 |Qiita (休止中)|https://qiita.com/Lugendre|
 |X (旧Twitter)|https://x.com/Lugendre|
