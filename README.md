@@ -44,6 +44,9 @@
 ### Go
 サブ言語。CLIツールを作る際に使う。実務ではKubernetesのカスタムコントローラを作る際に利用した。
 
+### Scala3
+現在勉強中。Haskellの経験を活かし、Tagless Finalとcats, cats-effectを用いた開発をして設計を勉強している。
+
 ### AWS
 実務でWebアプリケーションをホストするのに使った他、全体の管理も行った。主にFargateでコンテナをホストした。他にもCloudFront, S3, Auroraを使っている。
 数値計算ではAWS Parallel Clusterを使った。
